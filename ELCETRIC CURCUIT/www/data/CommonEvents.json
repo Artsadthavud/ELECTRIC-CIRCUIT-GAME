@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"list":[{"code":101,"indent":0,"parameters":["Nature",4,0,2]},{"code":401,"indent":0,"parameters":[" สวัสดี ยินดีต้อนรับเข้าสู่เกมนะ "]},{"code":101,"indent":0,"parameters":["Nature",4,0,2]},{"code":401,"indent":0,"parameters":["การบังคับตัวละครก็ง่ายๆใช้แค่เมาส์ก็ทำได้แล้ว"]},{"code":0,"indent":0,"parameters":[]}],"name":"แนะนำการเล่น","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"จดหมายของพ่อ",0,0,-50,0,100,100,255,0]},{"code":102,"indent":0,"parameters":[["ปิดจดหมาย"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"ปิดจดหมาย"]},{"code":235,"indent":1,"parameters":[1]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"เปิดจดหมายของพ่อ","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":231,"indent":0,"parameters":[1,"จดหมายหน้าห้องใต้ดิน",0,0,0,0,100,100,255,0]},{"code":102,"indent":0,"parameters":[["เก็บจดหมาย"],1,0,2,0]},{"code":402,"indent":0,"parameters":[0,"เก็บจดหมาย"]},{"code":235,"indent":1,"parameters":[1]},{"code":0,"indent":1,"parameters":[]},{"code":404,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"เปิดจดหมายหน้าห้องใต้ดิน","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":1}
 ]
