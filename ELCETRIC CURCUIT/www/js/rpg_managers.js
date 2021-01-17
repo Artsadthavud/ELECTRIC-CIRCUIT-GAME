@@ -538,7 +538,7 @@ ConfigManager.makeData = function() {
 };
 
 ConfigManager.applyData = function(config) {
-    this.alwaysDash = this.readFlag(config, 'alwaysDash');
+  //  this.alwaysDash = this.readFlag(config, 'alwaysDash');
     this.commandRemember = this.readFlag(config, 'commandRemember');
     this.bgmVolume = this.readVolume(config, 'bgmVolume');
     this.bgsVolume = this.readVolume(config, 'bgsVolume');
@@ -833,7 +833,7 @@ ImageManager.loadPicture = function(filename, hue) {
 };
 
 ImageManager.loadSvActor = function(filename, hue) {
-    return this.loadBitmap('img/sv_actors/', filename, hue, false);
+    return this.loadBitmap('img/sv_actors/', filename, hue, true); // normal false 
 };
 
 ImageManager.loadSvEnemy = function(filename, hue) {
@@ -841,11 +841,11 @@ ImageManager.loadSvEnemy = function(filename, hue) {
 };
 
 ImageManager.loadSystem = function(filename, hue) {
-    return this.loadBitmap('img/system/', filename, hue, false);
+    return this.loadBitmap('img/system/', filename, hue, true); // normal false 
 };
 
 ImageManager.loadTileset = function(filename, hue) {
-    return this.loadBitmap('img/tilesets/', filename, hue, false);
+    return this.loadBitmap('img/tilesets/', filename, hue, true); // normal false 
 };
 
 ImageManager.loadTitle1 = function(filename, hue) {
