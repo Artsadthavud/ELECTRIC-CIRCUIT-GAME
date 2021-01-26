@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":false,"name":"สุสาน","order":1,"parentId":0,"scrollX":819,"scrollY":453},
-{"id":2,"expanded":false,"name":"ห้องพยาบาล","order":2,"parentId":0,"scrollX":893.4545454545455,"scrollY":494.1818181818182},
+{"id":2,"expanded":false,"name":"ห้องพยาบาล","order":2,"parentId":0,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
 {"id":3,"expanded":true,"name":"ห้องใต้ดิน","order":3,"parentId":0,"scrollX":546,"scrollY":302},
 {"id":4,"expanded":true,"name":"เมืองไปร์","order":6,"parentId":0,"scrollX":1617.4545454545455,"scrollY":1232.7272727272727},
 {"id":5,"expanded":false,"name":"นอกโรงพยาบาล","order":9,"parentId":0,"scrollX":1152,"scrollY":1530.1818181818182},
@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":false,"name":"ในบ้าน","order":4,"parentId":3,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
 {"id":9,"expanded":false,"name":"ออกนอกเมือง","order":5,"parentId":3,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
 {"id":10,"expanded":false,"name":"โรงพยาบาลเมืองไปร์","order":7,"parentId":4,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
-{"id":11,"expanded":false,"name":"ห้องสมุดเมืองไปร์","order":8,"parentId":4,"scrollX":832,"scrollY":640}
+{"id":11,"expanded":false,"name":"ห้องสมุดเมืองไปร์","order":8,"parentId":4,"scrollX":595.6363636363636,"scrollY":329.45454545454544}
 ]
