@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":false,"name":"ห้องพยาบาล","order":2,"parentId":0,"scrollX":655.2,"scrollY":362.4},
 {"id":3,"expanded":false,"name":"ห้องใต้ดิน","order":3,"parentId":0,"scrollX":655.2,"scrollY":362.4},
 {"id":4,"expanded":true,"name":"เมืองไปร์","order":6,"parentId":0,"scrollX":1216,"scrollY":1224},
-{"id":5,"expanded":false,"name":"นอกโรงพยาบาล","order":10,"parentId":0,"scrollX":1080.8,"scrollY":1475.2},
+{"id":5,"expanded":false,"name":"นอกโรงพยาบาล","order":10,"parentId":0,"scrollX":816,"scrollY":1564},
 {"id":6,"expanded":true,"name":"Snow Town","order":11,"parentId":0,"scrollX":791.2,"scrollY":1084},
 {"id":7,"expanded":true,"name":"Mining City","order":13,"parentId":0,"scrollX":1082.4,"scrollY":1384},
 {"id":8,"expanded":false,"name":"ในบ้าน","order":4,"parentId":3,"scrollX":655.2,"scrollY":362.4},
@@ -15,5 +15,6 @@ null,
 {"id":13,"expanded":false,"name":"โรงงาน","order":15,"parentId":7,"scrollX":655.2,"scrollY":362.4},
 {"id":14,"expanded":false,"name":"โรงพยาบาลเมืองไปร์1","order":9,"parentId":4,"scrollX":655.2,"scrollY":362.4},
 {"id":15,"expanded":false,"name":"โรงประปา","order":14,"parentId":7,"scrollX":655.2,"scrollY":362.4},
-{"id":16,"expanded":false,"name":"Slum","order":16,"parentId":0,"scrollX":816,"scrollY":1520}
+{"id":16,"expanded":false,"name":"Slum","order":16,"parentId":0,"scrollX":816,"scrollY":1804},
+{"id":17,"expanded":false,"name":"Harbor","order":17,"parentId":0,"scrollX":832,"scrollY":640}
 ]
