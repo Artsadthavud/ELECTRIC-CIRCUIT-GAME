@@ -1,5 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"พระเอก","characterIndex":0,"characterName":"พระเอก","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"พระเอก","traits":[],"initialLevel":1,"maxLevel":99,"name":"พระเอก","nickname":"พระเอก","note":"","profile":""},
-{"id":2,"battlerName":"น้องพระเอก","characterIndex":0,"characterName":"น้องพระเอก","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"น้องพระเอก","traits":[],"initialLevel":1,"maxLevel":99,"name":"น้องพระเอก","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"พระเอก","characterIndex":0,"characterName":"พระเอก","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"พระเอก","traits":[],"initialLevel":1,"maxLevel":99,"name":"พระเอก","nickname":"พระเอก","note":"","profile":""}
 ]

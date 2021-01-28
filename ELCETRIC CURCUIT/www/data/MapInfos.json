@@ -2,13 +2,17 @@
 null,
 {"id":1,"expanded":false,"name":"สุสาน","order":1,"parentId":0,"scrollX":819,"scrollY":453},
 {"id":2,"expanded":false,"name":"ห้องพยาบาล","order":2,"parentId":0,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
-{"id":3,"expanded":true,"name":"ห้องใต้ดิน","order":3,"parentId":0,"scrollX":546,"scrollY":302},
-{"id":4,"expanded":true,"name":"เมืองไปร์","order":6,"parentId":0,"scrollX":1617.4545454545455,"scrollY":1232.7272727272727},
-{"id":5,"expanded":false,"name":"นอกโรงพยาบาล","order":9,"parentId":0,"scrollX":1152,"scrollY":1530.1818181818182},
-{"id":6,"expanded":false,"name":"Snow Town","order":10,"parentId":0,"scrollX":811,"scrollY":487},
-{"id":7,"expanded":false,"name":"Mining City","order":11,"parentId":0,"scrollX":1081.0909090909092,"scrollY":986.1818181818182},
+{"id":3,"expanded":true,"name":"ห้องใต้ดิน","order":3,"parentId":0,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
+{"id":4,"expanded":true,"name":"เมืองไปร์","order":6,"parentId":0,"scrollX":786.1818181818181,"scrollY":1144},
+{"id":5,"expanded":false,"name":"นอกโรงพยาบาล","order":10,"parentId":0,"scrollX":994.9090909090909,"scrollY":1546.1818181818182},
+{"id":6,"expanded":false,"name":"Snow Town","order":11,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":7,"expanded":true,"name":"Mining City","order":13,"parentId":0,"scrollX":816,"scrollY":1520},
 {"id":8,"expanded":false,"name":"ในบ้าน","order":4,"parentId":3,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
 {"id":9,"expanded":false,"name":"ออกนอกเมือง","order":5,"parentId":3,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
 {"id":10,"expanded":false,"name":"โรงพยาบาลเมืองไปร์","order":7,"parentId":4,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
-{"id":11,"expanded":false,"name":"ห้องสมุดเมืองไปร์","order":8,"parentId":4,"scrollX":595.6363636363636,"scrollY":329.45454545454544}
+{"id":11,"expanded":false,"name":"ห้องสมุดเมืองไปร์","order":8,"parentId":4,"scrollX":595.6363636363636,"scrollY":329.45454545454544},
+{"id":12,"expanded":false,"name":"Power Plant","order":12,"parentId":6,"scrollX":659.3333333333334,"scrollY":807.3333333333334},
+{"id":13,"expanded":false,"name":"โรงงาน","order":15,"parentId":7,"scrollX":589.8181818181819,"scrollY":390.54545454545456},
+{"id":14,"expanded":false,"name":"โรงพยาบาลเมืองไปร์1","order":9,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":false,"name":"โรงประปา","order":14,"parentId":7,"scrollX":540.6666666666666,"scrollY":322}
 ]
