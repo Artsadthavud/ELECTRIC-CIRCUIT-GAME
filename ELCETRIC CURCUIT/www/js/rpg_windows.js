@@ -563,11 +563,11 @@ Window_Base.prototype.drawActorMp = function(actor, x, y, width) {
     width = width || 186;
     var color1 = this.mpGaugeColor1();
     var color2 = this.mpGaugeColor2();
-    this.drawGauge(x, y, width, actor.mpRate(), color1, color2);
-    this.changeTextColor(this.systemColor());
-    this.drawText(TextManager.mpA, x, y, 44);
-    this.drawCurrentAndMax(actor.mp, actor.mmp, x, y, width,
-                           this.mpColor(actor), this.normalColor());
+   // this.drawGauge(x, y, width, actor.mpRate(), color1, color2);
+    //this.changeTextColor(this.systemColor());
+   // this.drawText(TextManager.mpA, x, y, 44);
+   // this.drawCurrentAndMax(actor.mp, actor.mmp, x, y, width,
+                          // this.mpColor(actor), this.normalColor());
 };
 
 Window_Base.prototype.drawActorTp = function(actor, x, y, width) {
@@ -590,7 +590,7 @@ Window_Base.prototype.drawActorSimpleStatus = function(actor, x, y, width) {
     this.drawActorIcons(actor, x, y + lineHeight * 2);
     this.drawActorClass(actor, x2, y);
     this.drawActorHp(actor, x2, y + lineHeight * 1, width2);
-    this.drawActorMp(actor, x2, y + lineHeight * 2, width2);
+    //this.drawActorMp(actor, x2, y + lineHeight * 2, width2);
 };
 
 Window_Base.prototype.drawItemName = function(item, x, y, width) {
@@ -5136,7 +5136,7 @@ Window_BattleLog.prototype.displayDamage = function(target) {
         this.displayEvasion(target);
     } else {
         this.displayHpDamage(target);
-        this.displayMpDamage(target);
+      //  this.displayMpDamage(target);
         this.displayTpDamage(target);
     }
 };
