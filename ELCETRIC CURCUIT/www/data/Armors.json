@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"atypeId":0,"description":"คุยกับพยาบาลหน้าโรงพยาบาล\n","etypeId":5,"traits":[],"iconIndex":4,"name":"ภารกิจที่ 1","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":2,"atypeId":0,"description":"ผ่านด่านแรกไปยังด่านที่ 2 เมืองไปร์","etypeId":2,"traits":[],"iconIndex":161,"name":"จบเมืองแรก บ้านเกิด","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"ผ่านด่านแรกไปยังด่านที่ 2 เมืองไปค์","etypeId":2,"traits":[],"iconIndex":161,"name":"จบเมืองแรก บ้านเกิด","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":3,"atypeId":0,"description":"จบภารกิจเมืองไปค์","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":160,"name":"เมืองไปค์","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":4,"atypeId":0,"description":"จบภารกิจเมืองแห่งทรายดอร์น","etypeId":2,"traits":[],"iconIndex":162,"name":"เมืองดอร์น","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":5,"atypeId":0,"description":"จบภารกิจเมืองแห่งหิมะไอซ์วอล","etypeId":2,"traits":[],"iconIndex":165,"name":"เมืองไอซ์วอล","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
